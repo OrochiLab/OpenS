@@ -1474,7 +1474,7 @@ a.rss:hover {
 }
 
 .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    background-color: #2C3840;
+    background-color: #2387DC;
 }
 
 #schedule-tabs {
@@ -1615,7 +1615,7 @@ a.rss:hover {
 }
 
 .time-box time {
-    color: rgba(0, 0, 0, .35);
+    color: #2C3840;
     font-size: 20px;
     font-weight: 600;
     padding: 0 0 0 15px;
